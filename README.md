@@ -1,6 +1,3 @@
-<div align="center" style="display:none">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Where+would+programmers+be;without+copy-and-paste+?)](https://git.io/typing-svg)
-</div>
 <div align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Where+would+programmers+be%3F;without+copy-and-paste%3F" alt="Typing SVG">
