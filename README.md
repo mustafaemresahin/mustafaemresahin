@@ -1,8 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Mustafa</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
 
-<h3 align="left">Ctrl + C, Ctrl + V: Where would programmers be without copy-and-paste ?</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Where+would+programmers+be;without+copy-and-paste+?)](https://git.io/typing-svg)
+
 
 <h3 align="left">Technologies I know:</h3>
 <p align="center">
@@ -10,7 +12,9 @@
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="30" width="30" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="30" width="30" />        
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="30" width="30" />
+		 
+		
 </p>
 
 <!--<h3 align="left">Spotify listening now:</h3>
