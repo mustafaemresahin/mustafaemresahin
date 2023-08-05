@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Where+would+programmers+be%3F;without+copy-and-paste%3F" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Where+would+programmers+be;without+copy-and-paste%3F" alt="Typing SVG">
   </a>
 </div>
 
