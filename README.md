@@ -7,8 +7,8 @@
 <h1 align="center">Hi there 👋, I'm Mustafa</h1>
 
 ### About me
-x
-<!--I'm a 20-year-old Computer Science student at the University of Houston, located in Houston, TX. With a passion for building software that solves real-world problems, I'm on a journey to become a full-stack software engineer. Currently in my third year of studies, I'm dedicated to honing my skills in developing responsive and user-friendly web applications using modern frameworks like React and Django.-->
+
+I'm a 20-year-old Computer Science student at the University of Houston, located in Houston, TX. With a passion for building software that solves real-world problems, I'm on a journey to become a full-stack software engineer. Currently in my third year of studies, I'm dedicated to honing my skills in developing responsive and user-friendly web applications using modern frameworks like React and Django.
 
 
 <hr>
