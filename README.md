@@ -6,14 +6,16 @@
 
 <h1 align="center">Hi there 👋, I'm Mustafa</h1>
 
-### About me
+### About Me
+🎓 3rd Year CS Student at UH  
+🌐 Full Stack Developer in the making  
+🤖 Exploring the Magic of ML 
 
-I'm a 20-year-old Computer Science student at the University of Houston, located in Houston, TX. With a passion for building software that solves real-world problems, I'm on a journey to become a full-stack software engineer. Currently in my third year of studies, I'm dedicated to honing my skills in developing responsive and user-friendly web applications using modern frameworks like React and Django.
+🔭 Currently building web projects  
+🌱 Learning and exploring every day  
 
 
-<hr>
-
-<h3 align="left">Technologies I know:</h3>
+<h2 align="left">Technologies I know:</h2>
 
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="40" width="40" />
@@ -26,6 +28,8 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
     <img align="center" src="imgs/django-logo.png" alt="devicon" height="35" width="70" />
     <img align="center" src="imgs/react-logo2.png" alt="devicon" height="50" width="50" />
     <img align="center" src="imgs/c-sharp.png" alt="devicon" height="40" width="40" />
+    <img align="center" src="imgs/keras.png" alt="devicon" height="30" width="30" />
+    <img align="center" src="imgs/tensorflow.png" alt="devicon" height="40" width="40" />
 
 		
 </p>
@@ -34,25 +38,32 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
 <a href="https://open.spotify.com/user/60kpx1avc7sq6u2793uvb4tjf"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>-->
 
 
-<h3 align="left">Top Languages I Use:</h3>
+<h2 align="left">Top Languages I Use:</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8"/>
 <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafaemresahin&show_icons=true&theme=tokyonight&icon_color=6392DF"/>-->
 </p>
 
-## Get in touch
+<h2 align="center">Get in touch</h2>
 
-<div style="display: flex; align-items: center;">
+<div align="center">
   <a href="mailto:mustafa.sahin03@outlook.com" target="_blank">
-    <img src="imgs/email.png" alt="email" height="50" width="50" />
+    <img src="imgs/email.png" alt="Email" height="50" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="margin-left: 10px;">
+  <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="margin-left: 20px;">
     <img alt="LinkedIn" src="imgs/linkedin.png" height="40" width="40" />
   </a>
-  <a href="https://www.mustafaemresahin.com/" target="_blank" style="margin-left: 10px;">
-    <img alt="LinkedIn" src="imgs/website.png" height="50" width="50" />
+  <a href="https://www.mustafaemresahin.com/" target="_blank" style="margin-left: 20px;">
+    <img alt="Website" src="imgs/website.png" height="50" width="50" />
   </a>
 </div>
+
+<div align="center">
+  <a href="mailto:mustafa.sahin03@outlook.com" target="_blank" style="padding:8px; padding-left:20px;">Email</a> |
+  <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="padding:8px">LinkedIn</a> |
+  <a href="https://www.mustafaemresahin.com/" target="_blank" style="padding:8px;">Website</a>
+</div>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
