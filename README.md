@@ -18,13 +18,15 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="40" width="40" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="35" width="40" />
     		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="40" width="40" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
 		<img align="center" src="imgs/bootstrap-logo.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="imgs/django-logo.png" alt="devicon" height="40" width="70" />
+    <img align="center" src="imgs/django-logo.png" alt="devicon" height="35" width="70" />
     <img align="center" src="imgs/react-logo2.png" alt="devicon" height="50" width="50" />
+    <img align="center" src="imgs/c-sharp.png" alt="devicon" height="40" width="40" />
+
 		
 </p>
 
@@ -32,7 +34,7 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
 <a href="https://open.spotify.com/user/60kpx1avc7sq6u2793uvb4tjf"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>-->
 
 
-<h3 align="left">Most Used Languages:</h3>
+<h3 align="left">Top Languages I Use:</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8"/>
@@ -54,5 +56,3 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
-
-------------
