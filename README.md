@@ -39,12 +39,12 @@ x
 
 ## Get in touch
 
-<div style="display: flex; align-items: center; text-align:center;">
+<div style="display: flex; align-items: center;">
   <a href="mailto:mustafa.sahin03@outlook.com" target="_blank">
     <img src="imgs/email.png" alt="email" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="margin-left: 10px;">
-    <img alt="LinkedIn" src="imgs/linkedin.png" height="30" width="30" />
+    <img alt="LinkedIn" src="imgs/linkedin.png" height="40" width="40" />
   </a>
   <a href="https://www.mustafaemresahin.com/" target="_blank" style="margin-left: 10px;">
     <img alt="LinkedIn" src="imgs/website.png" height="50" width="50" />
