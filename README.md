@@ -16,13 +16,15 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
 <h3 align="left">Technologies I know:</h3>
 
 <p align="center">
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="30" width="30" />
-    		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="30" width="30" />
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="30" width="30" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="30" width="30" />
-		 
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="40" width="40" />
+    		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="40" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
+		<img align="center" src="imgs/bootstrap-logo.png" alt="devicon" height="50" width="50" />
+    <img align="center" src="imgs/django-logo.png" alt="devicon" height="40" width="70" />
+    <img align="center" src="imgs/react-logo2.png" alt="devicon" height="50" width="50" />
 		
 </p>
 
