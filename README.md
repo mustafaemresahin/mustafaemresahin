@@ -7,16 +7,19 @@
 <h1 align="center">Hi there 👋, I'm Mustafa</h1>
 
 ### About me
+x
+<!--I'm a 20-year-old Computer Science student at the University of Houston, located in Houston, TX. With a passion for building software that solves real-world problems, I'm on a journey to become a full-stack software engineer. Currently in my third year of studies, I'm dedicated to honing my skills in developing responsive and user-friendly web applications using modern frameworks like React and Django.-->
 
-I'm a 20-year-old Computer Science student at the University of Houston, located in Houston, TX. With a passion for building software that solves real-world problems, I'm on a journey to become a full-stack software engineer. Currently in my third year of studies, I'm dedicated to honing my skills in developing responsive and user-friendly web applications using modern frameworks like React and Django.
 
 <hr>
 
 <h3 align="left">Technologies I know:</h3>
+
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="30" width="30" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="30" width="30" />
+    		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="30" width="30" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="30" width="30" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="30" width="30" />
 		 
@@ -36,10 +39,18 @@ I'm a 20-year-old Computer Science student at the University of Houston, located
 
 ## Get in touch
 
-- Email: <a href="mailto:mustafa.sahin03@outlook.com" target="_blank">
-    mustafa.sahin03@outlook.com
-	</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/mustafa-sahin03/" target="_blank">linkedin.com/in/mustafa-sahin03</a>
-- Portfolio: <a href="https://www.mustafaemresahin.com/" target="_blank">mustafaemresahin.com</a>
+<div style="display: flex; align-items: center; text-align:center;">
+  <a href="mailto:mustafa.sahin03@outlook.com" target="_blank">
+    <img src="imgs/email.png" alt="email" height="50" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="margin-left: 10px;">
+    <img alt="LinkedIn" src="imgs/linkedin.png" height="40" width="40" />
+  </a>
+  <a href="https://www.mustafaemresahin.com/" target="_blank" style="margin-left: 10px;">
+    <img alt="LinkedIn" src="imgs/website.png" height="50" width="50" />
+  </a>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
+
+------------
