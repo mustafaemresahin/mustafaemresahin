@@ -24,12 +24,12 @@
     		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="40" width="40" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="docs/imgs/bootstrap-logo.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="docs/imgs/django-logo.png" alt="devicon" height="35" width="70" />
-    <img align="center" src="docs/imgs/react-logo2.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="docs/imgs/c-sharp.png" alt="devicon" height="40" width="40" />
-    <img align="center" src="docs/imgs/keras.png" alt="devicon" height="30" width="30" />
-    <img align="center" src="docs/imgs/tensorflow.png" alt="devicon" height="40" width="40" />
+		<img align="center" src="imgs/bootstrap-logo.png" alt="devicon" height="50" width="50" />
+    <img align="center" src="imgs/django-logo.png" alt="devicon" height="35" width="70" />
+    <img align="center" src="imgs/react-logo2.png" alt="devicon" height="50" width="50" />
+    <img align="center" src="imgs/c-sharp.png" alt="devicon" height="40" width="40" />
+    <img align="center" src="imgs/keras.png" alt="devicon" height="30" width="30" />
+    <img align="center" src="imgs/tensorflow.png" alt="devicon" height="40" width="40" />
 
 		
 </p>
@@ -45,21 +45,10 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafaemresahin&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
 </p>-->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=merko)-->
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages">
-</div>-->
-<!--<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=light" alt="Top Languages" data-theme="light">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=dark" alt="Top Languages" data-theme="dark">
-</div>-->
 
-<!--<div id="themeSwitcher" align="center">
-  <div class="light-theme">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=light" alt="Top Languages">
-  </div>
+<div id="themeSwitcher" align="center">
   <div class="dark-theme">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Top Languages">
   </div>
 </div>
 
@@ -75,7 +64,7 @@
   } else {
     darkThemeDiv.style.display = 'none';
   }
-</script>-->
+</script>
 
 
 
@@ -85,13 +74,13 @@
 
 <div align="center">
   <a href="mailto:mustafa.sahin03@outlook.com" target="_blank">
-    <img src="docs/imgs/email.png" alt="Email" height="50" width="50" />
+    <img src="imgs/email.png" alt="Email" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="margin-left: 20px;">
-    <img alt="LinkedIn" src="docs/imgs/linkedin.png" height="40" width="40" />
+    <img alt="LinkedIn" src="imgs/linkedin.png" height="40" width="40" />
   </a>
   <a href="https://www.mustafaemresahin.com/" target="_blank" style="margin-left: 20px;">
-    <img alt="Website" src="docs/imgs/website.png" height="50" width="50" />
+    <img alt="Website" src="imgs/website.png" height="50" width="50" />
   </a>
 </div>
 
@@ -103,3 +92,4 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
+
