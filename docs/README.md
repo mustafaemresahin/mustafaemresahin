@@ -25,11 +25,11 @@
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
 		<img align="center" src="imgs/bootstrap-logo.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="imgs/django-logo.png" alt="devicon" height="35" width="70" />
-    <img align="center" src="imgs/react-logo2.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="imgs/c-sharp.png" alt="devicon" height="40" width="40" />
-    <img align="center" src="imgs/keras.png" alt="devicon" height="30" width="30" />
-    <img align="center" src="imgs/tensorflow.png" alt="devicon" height="40" width="40" />
+    <img align="center" src="docs/imgs/django-logo.png" alt="devicon" height="35" width="70" />
+    <img align="center" src="docs/imgs/react-logo2.png" alt="devicon" height="50" width="50" />
+    <img align="center" src="docs/imgs/c-sharp.png" alt="devicon" height="40" width="40" />
+    <img align="center" src="docs/imgs/keras.png" alt="devicon" height="30" width="30" />
+    <img align="center" src="docs/imgs/tensorflow.png" alt="devicon" height="40" width="40" />
 
 		
 </p>
