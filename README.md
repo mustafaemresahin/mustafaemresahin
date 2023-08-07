@@ -38,12 +38,12 @@
 <a href="https://open.spotify.com/user/60kpx1avc7sq6u2793uvb4tjf"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>-->
 
 
-<h2 align="left">Top Languages I Use:</h2>
+<!--<h2 align="left">Top Languages I Use:</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8"/>
-<!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafaemresahin&show_icons=true&theme=tokyonight&icon_color=6392DF"/>-->
-</p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafaemresahin&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
+</p>-->
 
 <h2 align="center">Get in touch</h2>
 
