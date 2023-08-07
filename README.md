@@ -46,7 +46,7 @@
 </p>-->
 
 
-<div id="themeSwitcher" align="center">
+<!--<div id="themeSwitcher" align="center">
   <div class="dark-theme">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Top Languages">
   </div>
@@ -64,10 +64,12 @@
   } else {
     darkThemeDiv.style.display = 'none';
   }
-</script>
+</script>-->
 
 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Top Languages">
+  </div>
 
 
 <h2 align="center">Get in touch</h2>
