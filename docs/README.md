@@ -54,7 +54,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=dark" alt="Top Languages" data-theme="dark">
 </div>-->
 
-<div id="themeSwitcher" align="center">
+<!--<div id="themeSwitcher" align="center">
   <div class="light-theme">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=light" alt="Top Languages">
   </div>
@@ -75,7 +75,7 @@
   } else {
     darkThemeDiv.style.display = 'none';
   }
-</script>
+</script>-->
 
 
 
