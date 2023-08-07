@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          theme=$(curl -s https://api.github.com/repos/mustafaemresahin/portfolio/contents/README.md | jq -r '.content' | base64 -d | grep -o 'data-theme=".*"' | grep -o '".*"')
+          if [ "$theme" == '"light"' ]; then
+            sed -i 's/data-theme=".*"/data-theme="dark"/' README.md
+          else
+            sed -i 's/data-theme=".*"/data-theme="light"/' README.md
+          fi
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add README.md
+          git commit -m "Update theme based on GitHub Actions"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
