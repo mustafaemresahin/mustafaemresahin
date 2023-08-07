@@ -85,13 +85,13 @@
 
 <div align="center">
   <a href="mailto:mustafa.sahin03@outlook.com" target="_blank">
-    <img src="imgs/email.png" alt="Email" height="50" width="50" />
+    <img src="docs/imgs/email.png" alt="Email" height="50" width="50" />
   </a>
   <a href="https://www.linkedin.com/in/mustafa-sahin03" target="_blank" style="margin-left: 20px;">
-    <img alt="LinkedIn" src="imgs/linkedin.png" height="40" width="40" />
+    <img alt="LinkedIn" src="docs/imgs/linkedin.png" height="40" width="40" />
   </a>
   <a href="https://www.mustafaemresahin.com/" target="_blank" style="margin-left: 20px;">
-    <img alt="Website" src="imgs/website.png" height="50" width="50" />
+    <img alt="Website" src="docs/imgs/website.png" height="50" width="50" />
   </a>
 </div>
 
