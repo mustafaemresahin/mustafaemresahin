@@ -21,11 +21,9 @@ jobs:
           else
             sed -i 's/data-theme=".*"/data-theme="light"/' README.md
           fi
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git add README.md
-          commit_message="Update theme based on GitHub Actions - $(date +'%Y-%m-%d %H:%M:%S')"
-          git commit -m "$commit_message"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
+          encoded_content=$(base64 -w 0 README.md)
+          curl -X PUT \
+               -H "Authorization: token ${{ secrets.ACTIONS_TOKEN }}" \
+               -H "Content-Type: application/json" \
+               -d '{"message": "Update theme based on GitHub Actions", "content": "'"$encoded_content"'"}' \
+               "https://api.github.com/repos/USER/REPO/contents/README.md"
