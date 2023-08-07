@@ -45,6 +45,13 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafaemresahin&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
 </p>-->
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=merko)-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=merko" alt="Top Languages">
+</div>
+
+
+
 <h2 align="center">Get in touch</h2>
 
 <div align="center">
