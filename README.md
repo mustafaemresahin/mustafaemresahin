@@ -47,7 +47,7 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=merko)-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=merko" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
 
