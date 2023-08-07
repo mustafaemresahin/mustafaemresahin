@@ -15,15 +15,15 @@ jobs:
 
       - name: Update README
         run: |
-          theme=$(curl -s https://api.github.com/repos/mustafaemresahin/mustafaemresahin/contents/README.md | jq -r '.content' | base64 -d | grep -o 'data-theme=".*"' | grep -o '".*"')
-          if [ "$theme" == '"light"' ]; then
-            sed -i 's/data-theme=".*"/data-theme="dark"/' README.md
+          theme=$(curl -s https://api.github.com/repos/mustafaemresahin/mustafaemresahin/contents/README.md | jq -r '.content')
+          if [[ "$theme" == *'data-theme="light"'* ]]; then
+            updated_theme=${theme/'data-theme="light"'/data-theme="dark"}
           else
-            sed -i 's/data-theme=".*"/data-theme="light"/' README.md
+            updated_theme=${theme/'data-theme="dark"'/data-theme="light"}
           fi
-          encoded_content=$(base64 -w 0 README.md)
+          updated_content=$(echo -n "$updated_theme" | base64)
           curl -X PUT \
                -H "Authorization: token ${{ secrets.ACTIONS_TOKEN }}" \
                -H "Content-Type: application/json" \
-               -d '{"message": "Update theme based on GitHub Actions", "content": "'"$encoded_content"'"}' \
-               "https://api.github.com/repos/USER/REPO/contents/README.md"
+               -d '{"message": "Update theme based on GitHub Actions", "content": "'"$updated_content"'"}' \
+               "https://api.github.com/repos/mustafaemresahin/mustafaemresahin/contents/README.md"
