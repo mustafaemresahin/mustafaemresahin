@@ -50,21 +50,7 @@
   <div class="dark-theme">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Top Languages">
   </div>
-</div>
-
-<script>
-  const prefersDarkTheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
-
-  const themeSwitcher = document.getElementById('themeSwitcher');
-  const lightThemeDiv = themeSwitcher.querySelector('.light-theme');
-  const darkThemeDiv = themeSwitcher.querySelector('.dark-theme');
-
-  if (prefersDarkTheme) {
-    lightThemeDiv.style.display = 'none';
-  } else {
-    darkThemeDiv.style.display = 'none';
-  }
-</script>-->
+</div>-->
 
 
 <div align="center">
