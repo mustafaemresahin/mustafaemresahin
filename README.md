@@ -68,7 +68,7 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css, Procfile&layout=compact&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css,Procfile&layout=compact&theme=dark" alt="Top Languages">
   </div>
 
 
