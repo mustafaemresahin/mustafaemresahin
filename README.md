@@ -14,10 +14,14 @@
 🔭 Currently building web projects  
 🌱 Learning and exploring every day  
 
-
 <h2 align="left">Technologies I know:</h2>
+<div align="center">
 
-<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,php,git,bootstrap,django,react,tensorflow,vscode,visualstudio,github,stackoverflow,&perline=10)](https://skillicons.dev)
+
+</div>
+
+<!--<p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="40" width="40" />
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="40" width="40" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="35" width="40" />
@@ -30,8 +34,6 @@
     <img align="center" src="imgs/c-sharp.png" alt="devicon" height="40" width="40" />
     <img align="center" src="imgs/keras.png" alt="devicon" height="30" width="30" />
     <img align="center" src="imgs/tensorflow.png" alt="devicon" height="40" width="40" />
-
-		
 </p>
 
 <!--<h3 align="left">Spotify listening now:</h3>
