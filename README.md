@@ -4,7 +4,14 @@
   </a>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Mustafa</h1>
+<h1 align="center">
+  Hey there, I’m Mustafa
+  <img
+    width="20px"
+    alt="Waving Emoji"
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+  />
+</h1>
 
 ### About Me
 🎓 3rd Year CS Student at UH  
@@ -58,7 +65,20 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Most Used Languages">
   </div>
-
+<br>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mustafaemresahin&hide_border=true&ring=5D99FE&theme=default&background=F6F8FA&currStreakLabel=000"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=mustafaemresahin&hide_border=true&ring=5D99FE&theme=dark&background=161B22&currStreakLabel=FFF"
+    />
+    <img alt="GitHub Streak Stats"> <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+  </picture>
+</div>
 
 <h2 align="center">Get in touch</h2>
 
@@ -82,4 +102,3 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafaemresahin&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaemresahin" /> </p>
-
