@@ -14,6 +14,7 @@
 </h1>
 
 ### About Me
+
 🎓 3rd Year CS Student at UH  
 🌐 Full Stack Developer in the making  
 🤖 Exploring the Magic of ML 
@@ -28,57 +29,13 @@
 
 </div>
 
-<!--<p align="center">
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="40" width="40" />
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="devicon" height="35" width="40" />
-    		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="devicon" height="40" width="40" />
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="devicon" height="40" width="40" />
-		<img align="center" src="imgs/bootstrap-logo.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="imgs/django-logo.png" alt="devicon" height="35" width="70" />
-    <img align="center" src="imgs/react-logo2.png" alt="devicon" height="50" width="50" />
-    <img align="center" src="imgs/c-sharp.png" alt="devicon" height="40" width="40" />
-    <img align="center" src="imgs/keras.png" alt="devicon" height="30" width="30" />
-    <img align="center" src="imgs/tensorflow.png" alt="devicon" height="40" width="40" />
-</p>
-
-<!--<h3 align="left">Spotify listening now:</h3>
-<a href="https://open.spotify.com/user/60kpx1avc7sq6u2793uvb4tjf"><img src="https://spotify-readme-beta.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" /></a>-->
-
-
-<!--<h2 align="left">Top Languages I Use:</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&layout=compact&theme=tokyonight&hide=css&hide_title=true&exclude_repo=MyCity&langs_count=8"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafaemresahin&show_icons=true&theme=tokyonight&icon_color=6392DF"/>
-</p>-->
-
-
-<!--<div id="themeSwitcher" align="center">
-  <div class="dark-theme">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Top Languages">
-  </div>
-</div>-->
-
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaemresahin&hide=html,css&layout=compact&theme=gruvbox" alt="Most Used Languages">
   </div>
 <br>
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mustafaemresahin&hide_border=true&ring=5D99FE&theme=default&background=F6F8FA&currStreakLabel=000"
-    />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=mustafaemresahin&hide_border=true&ring=5D99FE&theme=dark&background=161B22&currStreakLabel=FFF"
-    />
-    <img alt="GitHub Streak Stats"> <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-  </picture>
-</div>
+    <img src="https://streak-stats.demolab.com/?user=mustafaemresahin&theme=gruvbox" alt="GitHub Streak">
+  </div>
 
 <h2 align="center">Get in touch</h2>
 
