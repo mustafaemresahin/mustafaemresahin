@@ -25,7 +25,7 @@
 <h2 align="left">Technologies I know:</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,html,css,javascript,php,git,bootstrap,django,react,tensorflow,vscode,visualstudio,github,stackoverflow,matlab,heroku,flask&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,cpp,php,html,css,javascript,bootstrap,django,react,tensorflow,vscode,visualstudio,git,github,stackoverflow,matlab,heroku,flask,dotnet,sqlite&perline=11)](https://skillicons.dev)
 
 </div>
 
