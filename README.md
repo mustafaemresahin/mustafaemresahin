@@ -15,12 +15,18 @@
 
 ### About Me
 
-🎓 3rd Year CS Student at UH  
-🌐 Full Stack Developer in the making  
-🤖 Exploring the Magic of ML 
-
-🔭 Currently building web projects  
-🌱 Learning and exploring every day  
+<div>
+  <div style="font-size:16px;">
+    <p style="line-height:10px;">🎓 3rd Year CS Student at UH</p>
+    <p style="line-height:10px;">🌐 Full Stack Developer in the making</p>
+    <p style="line-height:10px;">🤖 Exploring the Magic of ML</p>
+  </div>
+  <br>
+  <div style="font-size:16px;">
+    <p style="line-height:10px;">🔭 Currently building web projects</p> 
+    <p style="line-height:10px;">🌱 Learning and exploring every day<p>
+  </div>
+</div>
 
 <h2 align="left">Technologies I know:</h2>
 <div align="center">
